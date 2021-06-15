@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @esa-prakasa
 - 👀 I’m interested in image processing and pattern recognition techniques.
 - 🌱 I’m currently learning computer vision using deep learning approaches.
-- 💞️ I’m looking to collaborate on developing vision algorithms for autonomous navigation.
+- 💞️ I’m looking to collaborate on developing vision algorithms for autonomous navigation. Other implementations of the vision system are also welcome.
 - 📫 You may reach me by email at esa.prakasa@gmail.com 
 - The list of published papers can be found at https://scholar.google.com/citations?user=gI_nXOcAAAAJ&hl=en 
 
